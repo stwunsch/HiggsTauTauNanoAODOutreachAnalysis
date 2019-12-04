@@ -54,3 +54,7 @@ The script `fit.py` treats the Z boson to two tau lepton process as signal and f
 ```bash
 python fit.py
 ```
+
+See the result here:
+
+![](plots/fit.png)
