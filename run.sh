@@ -9,3 +9,6 @@ time python histograms.py
 
 # Make plots
 time python plot.py
+
+# Fit signal strength for ZTT process
+time python fit.py

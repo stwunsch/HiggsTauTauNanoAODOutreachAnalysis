@@ -46,3 +46,11 @@ The last step of this analysis is the combination of the previously produced his
 ```bash
 python plot.py
 ```
+
+## **New:** Statistical analysis
+
+The script `fit.py` treats the Z boson to two tau lepton process as signal and fits the signal strength. The fit result is visualized in the file `fit.png`. Run the following command to produce the plot.
+
+```bash
+python fit.py
+```
